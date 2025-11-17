@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Huỳnh Đức Hiếu</h1>
+<h1 align="center">Hi 👋, I'm OliuHiuu </h1>
 <h3 align="center">Aspiring Data Engineer / BI Developer</h3>
 
 <p align="center">
@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
----
 
 ## 📊 GitHub Overview
 <p align="center">
