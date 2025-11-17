@@ -36,8 +36,3 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
-## GitHub Overview
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=OliuOliuHiu&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
