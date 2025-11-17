@@ -9,18 +9,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🚀 About Me
-I’m passionate about building **data pipelines**, **cloud analytics platforms**, and **BI solutions**.  
-Focused on creating scalable, automated, and production-ready data systems.
-
 ---
 
 ## 🔧 Tech Stack (Core Skills)
 
 <p align="center">
+  <!-- Cloud / DE Tools -->
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
@@ -28,9 +22,20 @@ Focused on creating scalable, automated, and production-ready data systems.
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-**Databases:** SQL Server • PostgreSQL • MySQL • MongoDB  
-**Languages:** Python • SQL • R  
+<p align="center">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
 ---
 
 ## 📊 GitHub Overview
@@ -38,8 +43,3 @@ Focused on creating scalable, automated, and production-ready data systems.
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=OliuOliuHiu&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🤝 Contact
-📧 Email: **hieuhd2502.work@gmail.com**  
-🔗 LinkedIn: **linkedin.com/in/oliuhiuu2502/**
