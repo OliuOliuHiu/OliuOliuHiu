@@ -10,7 +10,7 @@
   </a>
 </p>
 
-## 🔧 Tech Stack (Core Skills)
+## Tech Stack (Core Skills)
 
 <p align="center">
   <!-- Cloud / DE Tools -->
