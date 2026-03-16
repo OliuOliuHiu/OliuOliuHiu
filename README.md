@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OliuHiuu </h1>
-<h3 align="center">Aspiring Data Engineer / BI Developer</h3>
+<h3 align="center">Aspiring Analytics Engineer/ Data Analyst / BI Developer</h3>
 
 <p align="center">
   <a href="mailto:hieuhd2502.work@gmail.com">
